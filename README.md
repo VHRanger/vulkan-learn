@@ -1,4 +1,4 @@
-This is to learn MoltenVK on MacOS.
+This is to learn MoltenVK on MacOS. Follows [this](https://vulkan-tutorial.com/Drawing_a_triangle/Setup/Base_code) tutorial, but without the XCode IDE.
 
 # Dependencies
 
