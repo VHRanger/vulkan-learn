@@ -1,3 +1,5 @@
+This is to learn MoltenVK on MacOS.
+
 # Dependencies
 
 GLFW
